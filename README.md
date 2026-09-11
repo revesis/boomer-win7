@@ -103,3 +103,10 @@ Pass these to the `nim c` invocation in `build.sh` to enable optional behavior:
 - [winim](https://github.com/khchen/winim) — Win32/COM/CLR bindings for Nim
 - https://learn.microsoft.com/en-us/windows/win32/opengl/opengl-functions
 - https://learn.microsoft.com/en-us/windows/win32/gdi/capturing-an-image
+
+## 💖 Support & Donations
+
+
+| Coin | Network | Address |
+| :--- | :--- | :--- |
+| **SOL** | Solana | `GnXfjr5Kq4tpijwfeMbtnqicLFptXXP5rV79axB1M6F5` |
